@@ -15,6 +15,7 @@ let deck         = [];
 const tipos      = ['C', 'D', 'H', 'S'];
 const especiales = ['A', 'J', 'Q', 'K'];
 
+
 let puntosJugador = 0,
     puntosComputadora = 0;
 
